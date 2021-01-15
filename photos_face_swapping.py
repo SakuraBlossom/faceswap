@@ -26,7 +26,6 @@ img2_new_face = np.zeros((height, width, channels), np.uint8)
 
 
 
-
 # Face 1
 faces = detector(img_gray)
 for face in faces:
