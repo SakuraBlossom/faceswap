@@ -3,6 +3,7 @@
 A simple farewell gift for Linn.
 
 Please note that this repo is used for educational purposes.
+Based on [this OpenCV guide](https://learnopencv.com/face-swap-using-opencv-c-python/).
 
 ---
 ## Dependencies
